@@ -12,11 +12,11 @@ This website showcases my skills in HTML, including the use of various elements 
 
 ## Description
 - Deonna's First Website is structured into different sections, each demonstrating a specific aspect of HTML.
-- TEXT Section: Contains paragraphs with formatted text demonstrating the use of `<strong>`, `<em>`, and `<blockquote>` tags.
+- TEXT Section: Contains paragraphs with formatted text demonstrating the use of ```<strong>```, ```<em>```, and ```<blockquote>``` tags.
 - TABLE Section: Features a 5x4 table with merged cells using rowspan and colspan attributes, representing a game score scenario.
 - LIST Section: Showcases unordered and ordered lists, including nested lists. This section also includes images and hyperlinks, depicting sports teams like the Denver Broncos and Chicago Bears.
 - FORM Section: Includes forms with input fields for first name, last name, favorite sport (with a dropdown selection), sports experiences (checkboxes), and sports preferences (radio buttons).
-- Each section is marked with a heading and enclosed in a `<div>` with a unique id, making the code organized and readable.
+- Each section is marked with a heading and enclosed in a ```<div>``` with a unique id, making the code organized and readable.
 
 ## How to Use
 1. Download the Java files from the repository.
